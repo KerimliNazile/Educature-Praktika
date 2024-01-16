@@ -1,0 +1,42 @@
+#Faculty {
+    background-color:#f1f9ff ;
+    height: 100vh;
+    .FacultyArea {
+        margin-top: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+        .FacultyBox{
+        .FacultyImgBox {
+            position: relative;
+           bottom: -40px;
+            img{
+               
+               
+            }
+        }
+
+        .TextBox {
+           background-color: white;
+            text-align: center;
+            align-items: center;
+            border: 1px solid white;
+            width: 220px;
+            height: 400px;
+            .Text{
+                margin-top: 100px;
+            }
+        }
+    }
+}
+}
+.ContectText{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1{
+        font-size: 40px;
+    }
+}

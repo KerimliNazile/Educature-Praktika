@@ -1,0 +1,28 @@
+#Blue {
+    height: 40vh;
+    background-color: #283367;
+
+    .BlueArea {
+        gap: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .TextBlue {
+            margin-top: 150px;
+            font-size: 22px;
+            color: white;
+        }
+
+        .BlueIcon {
+            margin-top: 150px;
+            color: white;
+            gap: 10px;
+            font-size: 22px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+    }
+}

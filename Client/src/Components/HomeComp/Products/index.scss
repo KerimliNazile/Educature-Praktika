@@ -1,0 +1,16 @@
+#Products{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .ProductArea{
+        width: 70%;
+        gap: 10px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+       
+        .CardProduct{
+
+        }
+    }
+}

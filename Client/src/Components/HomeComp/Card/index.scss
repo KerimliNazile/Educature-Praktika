@@ -1,0 +1,42 @@
+.CardArea {
+    border: 1px solid #f1f9ff;
+    background-color: #f1f9ff;
+    height: 300px;
+    width: 300px;
+
+    .CardMain {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 40px;
+
+        i {
+            font-size: 40px;
+        }
+    }
+
+    .CardText {
+
+        align-items: center;
+        justify-content: center;
+
+        h1 {
+            font-size: 30px;
+        }
+
+        p {
+            font-size: 18px;
+            color: rgb(180, 177, 177);
+        }
+    }
+
+    .CardIcon {
+        margin-top: 80px;
+        font-size: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+
+    }
+}

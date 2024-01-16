@@ -1,0 +1,29 @@
+#Slider{
+    height: 60vh;
+    .SliderArea{
+      
+        margin: auto;
+        width: 50%;
+        .StarIcon ul{
+            margin-top: 30px;
+            font-size: 22px;
+            color: orange;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+        }
+    }
+    .swiper-pagination-fraction, .swiper-pagination-custom, .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal {
+       display: none;}
+}
+.SliderTextArea{
+    margin-top: 100px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.TextSlider{
+    margin-top: 10px;
+    font-size: 22px;
+    text-align: center;
+}

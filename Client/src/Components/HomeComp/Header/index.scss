@@ -1,0 +1,24 @@
+#Header{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://preview.colorlib.com/theme/educature/img/header-bg.png.webp");
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    .HeaderArea{
+        // background: red;
+.HeaderText{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    text-align: center;
+   max-width: 600px;
+
+    h1{
+        color: white;
+        font-size: 60px;
+    }
+}
+    }
+}
